@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          resume
+description:    "이력. 기록이 자산으로 되기까지."
+baseurl:        "/resume"
+url:            "https://yukamikuzzzang.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         sys
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        syspandt@gmail.com
 
 # Build settings
 markdown:       kramdown
