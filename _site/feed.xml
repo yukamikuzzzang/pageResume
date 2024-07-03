@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/resume/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/resume/" rel="alternate" type="text/html" /><updated>2024-07-03T23:38:17+09:00</updated><id>http://localhost:4000/resume/feed.xml</id><title type="html">resume</title><subtitle>이력. 기록이 자산으로 되기까지.</subtitle><author><name>sys</name><email>syspandt@gmail.com</email></author><entry><title type="html">Sticky Posts</title><link href="http://localhost:4000/resume/2021-05-03/sticky-posts" rel="alternate" type="text/html" title="Sticky Posts" /><published>2021-05-03T00:00:00+09:00</published><updated>2021-05-03T00:00:00+09:00</updated><id>http://localhost:4000/resume/2021-05-03/sticky-posts</id><content type="html" xml:base="http://localhost:4000/resume/2021-05-03/sticky-posts"><![CDATA[<p>Sticky, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.<!--more--> There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/resume/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/resume/" rel="alternate" type="text/html" /><updated>2024-07-03T23:52:53+09:00</updated><id>http://localhost:4000/resume/feed.xml</id><title type="html">resume</title><subtitle>이력. 기록이 자산으로 되기까지.</subtitle><author><name>sys</name><email>syspandt@gmail.com</email></author><entry><title type="html">내 코드가 그렇게 이상한가요?</title><link href="http://localhost:4000/resume/2024-07-03/yoi-code-warui-code" rel="alternate" type="text/html" title="내 코드가 그렇게 이상한가요?" /><published>2024-07-03T00:00:00+09:00</published><updated>2024-07-03T00:00:00+09:00</updated><id>http://localhost:4000/resume/2024-07-03/yoi-code-warui-code</id><content type="html" xml:base="http://localhost:4000/resume/2024-07-03/yoi-code-warui-code"><![CDATA[<h1 id="내-코드가-어때서">내 코드가 어때서?</h1>
+<p>개발하는 분야에 따라 코딩하는 스타일이나 문제접근 방식은 다를지라도
+만든 객체에 이름을 짓는 순간, 다시 볼 주석에 제목을 다는 순간, 필요한 기능을 추가하기 위한 메서드를 만드는 순간들을 지나쳐서 
+다시 뒤를 돌아보면 정체모를 거대한 무언가로 변모해있는 경우가 생긴다.</p>
+
+<p>만약 기존 체계의 유지보수를 담당한다면 또는 기능개선 임무를 맡았다면
+이런 무관심과 인일함의 스노우볼들이 모여 하나의 괴상망측한 악마이자 괴물이 되어 밤낮으로 개발자들의 고혈을 짜내는 야근들의 이미 시달리고 있을지도 모르겠다.</p>
+
+<p>하지만 그렇게 고통받는 와중에도 일단 ‘올바르게 잡느라 문제가 많은 코드’ 보단 ‘문제가 있어도 굴러가는 코드’를 어느새 선호하고 있으리라.</p>
+
+<h1 id="악마-사냥과-맞바꾼-건강-그리고-책">악마 사냥과 맞바꾼 건강 그리고 책.</h1>
+<p>수많은 야근으로 고통받았으나 그만큼 단단해진걸까.</p>
+
+<p>글쓴이는 야근으로 고통받던 나날들 동안 주변에서 진지하게 알려주지 않았던 리팩토링을 통해 ‘돌아가는 코드’보다 ‘가독성과 유지보수가 좋은 코드’를 만드는 꿀팁들을 적어놓았다.</p>
+
+<p>글을 읽다보면 조금은 강박적이다 못해 강요하는 듯한 뉘앙스까지 느껴질 정도이나 그만큼 ‘유지보수가 용이하며 잘 작동하는 코드’를 만드는 것이 중요하다는 것 아닐까.</p>
+
+<p>또 다른 후임자가 더 이상 나의 자리에서 고통받지 않도록.</p>
+
+<h1 id="딸깍으로-끝나는-해피-코딩을-바라며">“딸깍”으로 끝나는 해피 코딩을 바라며.</h1>
+<p>실질적으로 어떤 기능을 만들어내는 것 자체도 중요하지만 후에 누군가가 이를 유지보수할 것을 고려하여 정비하고 태세를 잘 갖춰놓는 것이 중요한 것을 끊임없이 언급할 것이다.<br />
+부디 야근없이 “딸깍” 한 번으로 개발의 부산물로 나오는 수많은 예외 사항을 마주치는 일은 없기를.</p>
+
+<p>tags[]</p>]]></content><author><name>sys</name></author><category term="리팩토링" /><category term="YOICODE_WARUICODE" /><summary type="html"><![CDATA[내 코드가 어때서? 개발하는 분야에 따라 코딩하는 스타일이나 문제접근 방식은 다를지라도 만든 객체에 이름을 짓는 순간, 다시 볼 주석에 제목을 다는 순간, 필요한 기능을 추가하기 위한 메서드를 만드는 순간들을 지나쳐서 다시 뒤를 돌아보면 정체모를 거대한 무언가로 변모해있는 경우가 생긴다.]]></summary></entry><entry><title type="html">Sticky Posts</title><link href="http://localhost:4000/resume/2021-05-03/sticky-posts" rel="alternate" type="text/html" title="Sticky Posts" /><published>2021-05-03T00:00:00+09:00</published><updated>2021-05-03T00:00:00+09:00</updated><id>http://localhost:4000/resume/2021-05-03/sticky-posts</id><content type="html" xml:base="http://localhost:4000/resume/2021-05-03/sticky-posts"><![CDATA[<p>Sticky, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.<!--more--> There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.</p>
 
 <h2 id="making-a-post-sticky">Making a post “sticky”</h2>
 
