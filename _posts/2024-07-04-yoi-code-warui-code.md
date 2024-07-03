@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "[1/0]내 코드가 그렇게 이상한가요?"
+title: "내 코드가 그렇게 이상한가요?(1/0)"
 author: "sys"
-tags: 리팩토링, 1회독, 스터디
+tags: refactoring
 ---
 
 # 내 코드가 어때서?
