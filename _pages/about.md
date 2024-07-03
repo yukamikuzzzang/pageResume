@@ -1,13 +1,19 @@
 ---
 layout: post
 title: "About"
-author: "susys"
+author: "sys"
 permalink: /about/
 ---
 
-어떤 곳에서도 활약할 수 있는 개발자가 되기 위해 정진하는 나에 대한 기록.
+어느 곳에서도 활약하고 싶은 나에게.
+기록이 기억이 되고 그 기억이 자산이 되기까지.
+색다르거나 남다르기보다 안정적이고 편안하게.
+알고리즘에서 JVM까지 프로그래밍 언어에서 아키텍처와 네트워크까지.
+시작과 달라서 비참해지더라도 아주 낮아지지는 않게.
+스트리밍 같은 1인칭 시점에 편집점을 찍다.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## 맺음말
+누군가의 개인적인 개발 내역을 담은 내용입니다.
+만약 누군가에게 도움이 되었다면 그것만으로도 감사합니다.
 
-만약 이 글을 읽어주신다면 감사합니다.
+Template imported by [tale](https://github.com/chesterhow/tale).
