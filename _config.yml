@@ -1,7 +1,7 @@
 # Site settings
 title:          resume
 description:    "이력. 기록이 자산으로 되기까지."
-baseurl:        "/resume"
+baseurl:        "/pageResume"
 url:            "https://yukamikuzzzang.github.io"
 
 # Google Analytics
